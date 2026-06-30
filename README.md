@@ -17,7 +17,7 @@ The project leverages standardized linguistic frameworks to ensure scalability a
 ## Future Research & Expansion
 To move beyond formal text, the project is expanding into **Morphophonological Normalization** to handle the "noisy" reality of conversational speech:
 - **Normalization:** Implementing sub-word processing to map colloquial contractions to their lemma forms (e.g., mapping *huit’ma* to *hui tama* or *|har’tab* to *|haratab*).
-- **Ellipsis and Syncope:** Creating specialized CoNLL-U layers for elliptical constructions (e.g., resolving *mâitsa mî* to *mâti tsî ta mî*), allowing the model to interpret conversational speech.
+- **Ellipsis and Syncope:** Creating specialized CoNLL-U layers for elliptical constructions (e.g., resolving *mâitsa mî* to *mâtits ta mî*), allowing the model to interpret conversational speech.
 - **Synthetic Augmentation:** Developing constraint-based synthesis to simulate rare linguistic structures, mitigating the impact of current data scarcity.
 
 ## Status
