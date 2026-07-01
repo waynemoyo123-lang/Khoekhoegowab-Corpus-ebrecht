@@ -1,0 +1,15 @@
+# Data handling
+pandas
+numpy
+
+# NLP and Parsing
+spacy
+stanza
+conllu
+
+# Notebooks
+jupyterlab
+
+# Utilities
+requests
+beautifulsoup4
